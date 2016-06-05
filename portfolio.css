@@ -1,6 +1,10 @@
 body{
 	background: #CFD8DC;
 }
+.panel.panel-success.panel-header{
+	background-color: #8BC34A;
+	color:#fff;
+}
 
 #about{
 	padding: 70px 0px 0px 0px;
