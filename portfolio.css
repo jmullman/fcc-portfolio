@@ -3,9 +3,12 @@ body{
 }
 .panel-header{
 	background-color: #8BC34A;
-	color:#fff;
+	color: #fff;
 }
-
+.panel-body{
+	background-color: #455A64;
+	color: #fff;
+}
 #about{
 	padding: 70px 0px 0px 0px;
 }
