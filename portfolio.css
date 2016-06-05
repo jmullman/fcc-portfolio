@@ -1,14 +1,7 @@
 body{
 	background: #CFD8DC;
 }
-.col-xs-12.about{
-	background-image: url("https://3ijaxq.by3302.livefilestore.com/y3mkM4BnzxQFVz_tU8j8CoYUFpL6s_6JJe552LlK4OVgoVGOy6_P0jDICCpZp6u8kH_SVEDEE5TY2xMWW-iTXBhi_ACXtL_X-nnf9w1AxcOJxTyu8ZGH69v8vopdT13KYsgqsrUxUcDVARpNrOzZFXgRGlQstsEG4G-fvEU3QcfbLM?width=2592&height=1936&cropmode=none");
-	background-clip: content-box;
-	background-origin: content-box;
-	background-size: 100% 100%;
-	max-height: 400px;
-	min-height: 400px
-}
+
 #about{
 	padding: 70px 0px 0px 0px;
 }
