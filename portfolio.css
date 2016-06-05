@@ -6,7 +6,7 @@ body{
 	background-clip: content-box;
 	background-origin: content-box;
 	background-size: contain;
-	max-height: 30%;
+	max-height: 600px;
 }
 #about{
 	padding: 70px 0px 0px 0px;
