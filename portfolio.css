@@ -5,10 +5,13 @@ body{
 	background-color: #8BC34A;
 	color: #fff;
 }
-.panel-body,
-.list-group-item-heading{
+.panel-body{
 	background-color: #455A64;
 	color: #fff;
+}
+.list-group-item-heading{
+	background-color: #455A64;
+	color: #fff;	
 }
 #about{
 	padding: 70px 0px 0px 0px;
