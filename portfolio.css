@@ -11,7 +11,9 @@ h4{
 #about{
 	padding: 70px 0px 0px 0px;
 }
-
+#projects{
+	margin: 10px;
+}
 .panel{
 	color: #ECEFF1;
 	border-radius: 10px 10px 0px 0px;
