@@ -7,9 +7,10 @@ body{
 }
 .panel-body{
 	background-color: #455A64;
-	color: #fff !important;
 }
-
+.list-group, .list-group-item, .list-group-item-header{
+	color: #fff;
+}
 #about{
 	padding: 70px 0px 0px 0px;
 }
