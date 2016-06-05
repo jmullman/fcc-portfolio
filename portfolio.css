@@ -9,7 +9,7 @@ body{
 	background-color: #455A64;
 	color: #fff;
 }
-.list-group-item-heading{
+h4.list-group-item-heading{
 	background-color: #455A64;
 	color: #fff;	
 }
