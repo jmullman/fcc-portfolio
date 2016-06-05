@@ -12,12 +12,12 @@ h4{
 }
 
 .panel{
-	color: #fff;
+	color: #777;
 	border-radius: 10px 10px 0px 0px;
 }
 .panel-header{
 	background-color: #8BC34A;
-	color: #fff;
+	color: #777;
 	font-weight: bold;
 	font-size: 1.33em;
 	text-align: right;
