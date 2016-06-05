@@ -1,19 +1,31 @@
 body{
 	background: #CFD8DC;
 }
+
+h4{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#about{
+	padding: 70px 0px 0px 0px;
+}
+
 .panel{
 	color: #fff;
 }
 .panel-header{
 	background-color: #8BC34A;
 	color: #fff;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	text-align: right;
 }
 .panel-body{
 	background-color: #455A64;
 }
-#about{
-	padding: 70px 0px 0px 0px;
-}
+
 .nav-shadow{
 	-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
 	-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
