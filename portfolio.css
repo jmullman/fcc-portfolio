@@ -7,12 +7,9 @@ body{
 }
 .panel-body{
 	background-color: #455A64;
-	color: #fff;
+	color: #fff !important;
 }
-h4{
-	background-color: #455A64;
-	color: #fff;	
-}
+
 #about{
 	padding: 70px 0px 0px 0px;
 }
