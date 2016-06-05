@@ -1,7 +1,7 @@
 body{
 	background: #CFD8DC;
 }
-.panel.panel-success.panel-header{
+.panel-header{
 	background-color: #8BC34A;
 	color:#fff;
 }
