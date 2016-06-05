@@ -13,11 +13,11 @@ h4{
 
 .panel{
 	color: #fff;
+	border-radius: 3px 3px 0px 0px;
 }
 .panel-header{
 	background-color: #8BC34A;
 	color: #fff;
-	border-radius: 10px;
 	margin-bottom: 10px;
 	font-weight: bold;
 	text-align: right;
