@@ -15,6 +15,13 @@ h4{
 	margin: 10px;
 	padding-top: 50px;
 }
+
+.equal, .equal > div[class*='col-'] {  
+    display: -webkit-flex;
+    display: flex;
+    flex:1 1 auto;
+}
+
 .panel{
 	color: #ECEFF1;
 	border-radius: 10px 10px 0px 0px;
@@ -42,9 +49,4 @@ h4{
 	color: #ECEFF1;
 }
 
-/*.row-eq-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display:         flex;
-}*/
+
