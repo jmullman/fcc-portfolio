@@ -10,7 +10,9 @@ h4{
 
 hr{
 	width: 25%;
-	color: #8BC34A;
+	height: 5px;
+	border-color: #8BC34A;
+	float: right;
 }
 
 #about{
