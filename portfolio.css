@@ -10,9 +10,11 @@ h4{
 
 hr{
 	width: 25%;
-	height: 5px;
+	padding: 2px;
 	border-color: #8BC34A;
-	float: right;
+	background-color: #8BC34A;
+	text-align: left;
+	margin-left: 0;
 }
 
 #about{
