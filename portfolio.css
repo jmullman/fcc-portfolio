@@ -13,17 +13,7 @@ h4{
 }
 #projects{
 	margin: 10px;
-	padding-top: 50px;
-	display: table;
-    table-layout: fixed;
-    height: 100%;
-    width: 100%;
-}
-
-#projects .panel{
-    display: table-cell;
-    float: none;
-    height: 100%;
+	padding-top: 40px;
 }
 
 .panel{
