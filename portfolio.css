@@ -20,13 +20,15 @@ h4{
     width: 100%;
 }
 
+#projects .panel{
+    display: table-cell;
+    float: none;
+    height: 100%;
+}
 
 .panel{
 	color: #ECEFF1;
 	border-radius: 10px 10px 0px 0px;
-    display: table-cell;
-    float: none;
-    height: 100%;
 }
 .panel-header{
 	background-color: #8BC34A;
