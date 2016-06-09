@@ -1,11 +1,12 @@
 body{
 	background: #CFD8DC;
 	color: #ECEFF1;
+	font-family: Roboto,Ariel,sans-serif;
 }
 
 h4{
 	margin-bottom: 10px;
-	font-weight: bold;
+	font-weight: 600;
 }
 
 hr{
@@ -26,15 +27,16 @@ hr{
 
 .panel{
 	color: #ECEFF1;
-	border-radius: 10px 10px 0px 0px;
+	border-radius: 4px 4px 0px 0px;
+	border: 0px;
 }
 .panel-header{
 	background-color: #8BC34A;
 	color: #ECEFF1;
-	font-weight: bold;
+	font-weight: 500;
 	font-size: 1.5em;
 	text-align: right;
-	border-radius: 10px 10px 0px 0px;
+	border-radius: 4px 4px 0px 0px;
 	padding: 0px 15px 0px 0px;
 }
 .panel-body{
