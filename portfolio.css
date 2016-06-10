@@ -2,6 +2,8 @@ body{
 	background: #CFD8DC;
 	color: #ECEFF1;
 	font-family: Roboto,Ariel,sans-serif;
+	font-weight: 300;
+	font-size: 100%
 }
 
 h4{
