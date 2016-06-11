@@ -1,5 +1,6 @@
 body{
 	font-family: Roboto,Ariel,sans-serif;
+	margin-top: 73px;
 }
 
 hr{
@@ -12,9 +13,7 @@ hr{
 	margin-left: 0;
 }
 
-#about{
-	padding: 73px 0px 0px 0px;
-}
+
 
 .material-icons{
 	vertical-align: bottom;
