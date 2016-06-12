@@ -13,8 +13,6 @@ hr{
 	margin-left: 0;
 }
 
-
-
 .material-icons{
 	vertical-align: bottom;
 }
@@ -26,6 +24,10 @@ hr{
 
 .navbar{
 	margin-bottom: inherit;
+}
+
+.no-padding{
+	padding: 0em;
 }
 
 .panel{
@@ -40,5 +42,4 @@ hr{
 	border-radius: 4px 4px 0px 0px;
 	right-padding: 15px;
 }
-
 
