@@ -2,6 +2,7 @@ body{
 	font-family: Roboto,Ariel,sans-serif;
 	margin-top: 73px;
 	background-image: url('portfolio-bg-tile.png');
+	background-attachment: fixed;
 }
 
 hr{
